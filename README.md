@@ -9,9 +9,7 @@ Este projeto utiliza um Raspberry Pi Pico para controlar um servo motor através
 - Raspberry Pi Pico
 - Servo motor (compatível com sinal PWM de 50Hz)
 - LED RGB (BitDogLab) ou LED comum
-- Resistores (se necessário para o LED)
 - Fios jumper
-- Fonte de alimentação adequada
 
 ## Ligações
 
