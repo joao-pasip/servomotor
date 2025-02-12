@@ -74,3 +74,5 @@ O programa inicializa o PWM no GPIO 22 para controlar o servo. O LED é utilizad
 ## Autor
 
 Desenvolvido por João Paulo Silva Piauhy.
+
+## Vídeo [YouTube](https://youtu.be/hTmKJjEA5jo)
